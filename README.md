@@ -1,4 +1,4 @@
-# a1_10684120.cc
+# a2_10684120.cc
 c++ program that accepts user input as an integer and outputs whether or not the value supplied is prime
 //Program to show whether a number is prime or not
 #include<iostream>
